@@ -1,6 +1,8 @@
 RoNz Auto SL n TP.mq4
+
 Copyright 2014-2018, Rony Nofrianto
-2.06
+
+v2.06
 
 VERSION HISTORY
 
